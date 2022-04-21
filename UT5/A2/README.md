@@ -1,4 +1,4 @@
-#UNIRSE AL DOMINIO DESDE OPENSUSE
+# UNIRSE AL DOMINIO DESDE OPENSUSE
 Usar Yast para unir la MV al dominio del PDC.
 <br>
 Yast -> Pertenencia a dominio de Windows (Unirse a un dominio)
@@ -17,7 +17,7 @@ Comprobar en el servidor PDC, consultando los equipos del dominio.
 <br>
 
 
-#ABRIR SESIÓN DESDE EL CLIENTE
+# ABRIR SESIÓN DESDE EL CLIENTE
 Iniciar sesión en el equipo GNU/Linux usando un usuario del dominio.
 <br>
 Desde el cliente, entramos al sistema con algún usuario del dominio de la siguiente 
@@ -35,7 +35,7 @@ como usuario local, por tanto, debe ser un usuario del dominio.
 <br>
 
 
-#RECURSOS COMPARTIDOS
+# RECURSOS COMPARTIDOS
 Podemos acceder al recurso compartido del Window Server (PDC) de la siguiente forma:
 <br>
 Iniciar un explorador de archivos.
