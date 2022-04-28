@@ -1,14 +1,12 @@
-<center>
 
 # ACTIVIDAD 2 IDP
-
-</center>
 
 ***Nahuel Ivan Troisi*** <br>
 ***1º de Ciclo Superior de Administración de Sistemas Informáticos en Red*** 
 
 
 ## UNIRSE AL DOMINIO DESDE OPENSUSE
+
 + Usar Yast para unir la MV al dominio del PDC.
 
 + Yast -> Pertenencia a dominio de Windows (Unirse a un dominio)
