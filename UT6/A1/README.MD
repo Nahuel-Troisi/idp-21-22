@@ -29,4 +29,4 @@ archivo de configuración xml.
 + Instalamos el programa "isomaster" para incluir el archivo xml generado anteriormente en el fichero ISO de
 OpenSuse. 
 
-***No se pudo realizar correctamente por falta de información de cómo usar el programa "isomaker". 
+***No se pudo realizar correctamente por falta de información de cómo usar el programa "isomaker"***. 
