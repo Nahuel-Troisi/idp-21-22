@@ -54,25 +54,25 @@ e) Comprobamos que se ha efectuado el cambio. <br> ![](img/5/5.5.png)
 
 ## CAJA PERSONALIZADA
 
-a) Instalamos el servicio SSH en la MV. <br> ![](img/6/6.1)
+a) Instalamos el servicio SSH en la MV. <br> ![](img/6/6.1.png)
 
-b) Añadimos el usuario "Vagrant" a la MV. <br> ![](img/6/6.2)
+b) Añadimos el usuario "Vagrant" a la MV. <br> ![](img/6/6.2.png)
 
-c) Accedemos con usuario Vagrant y configuramos el acceso por clave pública. <br> ![](img/6/6.3) <br> ![](img/6/6.4)
+c) Accedemos con usuario Vagrant y configuramos el acceso por clave pública. <br> ![](img/6/6.3.png) <br> ![](img/6/6.4.png)
 
-d) Editamos el archivo "Sudoers" para conceder permisos a Vagrant. <br> ![](img/6/6.5) <br> ![](img/6/6.6) 
+d) Editamos el archivo "Sudoers" para conceder permisos a Vagrant. <br> ![](img/6/6.5.png) <br> ![](img/6/6.6.png) 
 
-e) Creamos la caja. <br> ![](img/6/6.7)
+e) Creamos la caja. <br> ![](img/6/6.7.png)
 
-f) Comprobamos que se ha creado correctamente. <br> ![](img/6/6.8)
+f) Comprobamos que se ha creado correctamente. <br> ![](img/6/6.8.png)
 
-g) Añadimos la caja a nuestra carpeta de archivos. <br> ![](img/6/6.9)
+g) Añadimos la caja a nuestra carpeta de archivos. <br> ![](img/6/6.9.png)
 
-h) Comprobamos la lista de cajas para corroborar que se ha añadido correctamente. <br> ![](img/6/6.10)
+h) Comprobamos la lista de cajas para corroborar que se ha añadido correctamente. <br> ![](img/6/6.10.png)
 
-i) Editamos el archivo de configuración "Vagrantfile". <br> ![](img/6/6.11)
+i) Editamos el archivo de configuración "Vagrantfile". <br> ![](img/6/6.11.png)
 
-j) Levantamos la MV y comprobamos que se ejecuta correctamente. ![](img/6/6.12)
+j) Levantamos la MV y comprobamos que se ejecuta correctamente. ![](img/6/6.12.png)
 
 ## CAJA WINDOWS
 
