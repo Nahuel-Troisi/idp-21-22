@@ -72,7 +72,7 @@ h) Comprobamos la lista de cajas para corroborar que se ha añadido correctament
 
 i) Editamos el archivo de configuración "Vagrantfile". <br> ![](img/6/6.11.png)
 
-j) Levantamos la MV y comprobamos que se ejecuta correctamente. ![](img/6/6.12.png)
+j) Levantamos la MV y comprobamos que se ejecuta correctamente. <br> ![](img/6/6.12.png)
 
 ## CAJA WINDOWS
 
