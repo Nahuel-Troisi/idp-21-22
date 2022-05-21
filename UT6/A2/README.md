@@ -53,6 +53,27 @@ d) Cambiamos el nombre de la MV en el archivo de configuración. <br> ![](img/5/
 e) Comprobamos que se ha efectuado el cambio. <br> ![](img/5/5.5.png)
 
 ## CAJA PERSONALIZADA
+
+a) Instalamos el servicio SSH en la MV. <br> ![](img/6/6.1)
+
+b) Añadimos el usuario "Vagrant" a la MV. <br> ![](img/6/6.2)
+
+c) Accedemos con usuario Vagrant y configuramos el acceso por clave pública. <br> ![](img/6/6.3) <br> ![](img/6/6.4)
+
+d) Editamos el archivo "Sudoers" para conceder permisos a Vagrant. <br> ![](img/6/6.5) <br> ![](img/6/6.6) 
+
+e) Creamos la caja. <br> ![](img/6/6.7)
+
+f) Comprobamos que se ha creado correctamente. <br> ![](img/6/6.8)
+
+g) Añadimos la caja a nuestra carpeta de archivos. <br> ![](img/6/6.9)
+
+h) Comprobamos la lista de cajas para corroborar que se ha añadido correctamente. <br> ![](img/6/6.10)
+
+i) Editamos el archivo de configuración "Vagrantfile". <br> ![](img/6/6.11)
+
+j) Levantamos la MV y comprobamos que se ejecuta correctamente. ![](img/6/6.12)
+
 ## CAJA WINDOWS
 
 a) Buscamos la MV que más nos guste y la añadimos a través de Vagrant. <br> ![](img/7/7.1.png)
