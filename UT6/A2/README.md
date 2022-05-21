@@ -7,7 +7,7 @@
 ## AÑADIR CAJAS
 
 a) Creamos un nuevo fichero donde alojar todos nuestros archivos de Vanguard.
-
+![](1.1.1.png)
 b) Creamos un archivo "Vagrantfile" con la siguiente configuración. 
 
 c) Levantamos la máquina creada. 
