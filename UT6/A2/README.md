@@ -6,62 +6,62 @@
 
 ## AÑADIR CAJAS
 
-a) Creamos un nuevo fichero donde alojar todos nuestros archivos de Vanguard. ![](img/1/1.1.1.png)
+a) Creamos un nuevo fichero donde alojar todos nuestros archivos de Vanguard. <br> ![](img/1/1.1.1.png)
 
-b) Creamos un archivo "Vagrantfile" con la siguiente configuración. ![](img/1/1.1.2.png)
+b) Creamos un archivo "Vagrantfile" con la siguiente configuración. <br> ![](img/1/1.1.2.png)
 
-c) Levantamos la máquina creada. ![](img/1/1.2.1.png) ![](img/1/1.2.2.png)
+c) Levantamos la máquina creada. <br> ![](img/1/1.2.1.png) <br> ![](img/1/1.2.2.png)
 
-d) Accedemos a la máquina mediante SSH. ![](img/1/1.3-1.4.png)
+d) Accedemos a la máquina mediante SSH. <br> ![](img/1/1.3-1.4.png)
 
 ## REDIRECCIÓN DE PUERTOS
 
-a) Editamos el archivo "Vagrantfile". ![](img/3/3.1.png)
+a) Editamos el archivo "Vagrantfile". <br> ![](img/3/3.1.png)
 
-b) Levantamos la máquina con la nueva configuración. ![](img/3/3.2.png)
+b) Levantamos la máquina con la nueva configuración. <br> ![](img/3/3.2.png)
 
-c) Comprobamos que se han efectuado los cambios. ![](img/3/3.3.png)
+c) Comprobamos que se han efectuado los cambios. <br> ![](img/3/3.3.png)
 
-d) Mediante SSH instalamos "Apache2" en la MV. ![](img/3/3.4.png)
+d) Mediante SSH instalamos "Apache2" en la MV. <br> ![](img/3/3.4.png)
 
-e) Comprobamos el puerto asignado. ![](img/3/3.5.png)
+e) Comprobamos el puerto asignado. <br> ![](img/3/3.5.png)
 
-f) Eliminamos la MV. ![](img/3/3.6.png)
+f) Eliminamos la MV. <br> ![](img/3/3.6.png)
 
 ## SUMINISTRO MEDIANTE SHELL SCRIPT
 
-a) Mediante VisualStudio, creamos un archivo HTML en nuestra carpeta de Vagrant. ![](img/4/4.1.png)
+a) Mediante VisualStudio, creamos un archivo HTML en nuestra carpeta de Vagrant. <br> ![](img/4/4.1.png)
 
-b) Del mismo modo, creamos un script con la siguiente configuración. ![](img/4/4.2.png)
+b) Del mismo modo, creamos un script con la siguiente configuración. <br> ![](img/4/4.2.png)
 
-c) Editamos el archivo de configuración "Vagrantfile". ![](img/4/4.3.png)
+c) Editamos el archivo de configuración "Vagrantfile". <br> ![](img/4/4.3.png)
 
-d) Levantamos la MV para comprobar que se han efectuado los cambios. ![](img/4/4.4.png) 
+d) Levantamos la MV para comprobar que se han efectuado los cambios. <br> ![](img/4/4.4.png) 
 
-e) Comprobamos que podemos acceder al servidor Apache. ![](img/4/4.5.png)
+e) Comprobamos que podemos acceder al servidor Apache. <br> ![](img/4/4.5.png)
  
 ## SUMINISTRO MEDIANTE PUPPET
 
-a) Editamos el archivo de configuración "Vagrantfile". ![](img/5/5.1.png)
+a) Editamos el archivo de configuración "Vagrantfile". <br> ![](img/5/5.1.png)
 
-b) Creamos el siguiente archivo mediante VisualStudio. ![](img/5/5.2.png)
+b) Creamos el siguiente archivo mediante VisualStudio. <br> ![](img/5/5.2.png)
 
-c) Levantamos la MV. ![](img/5/5.3.png)
+c) Levantamos la MV. <br> ![](img/5/5.3.png)
 
-d) Cambiamos el nombre de la MV en el archivo de configuración. ![](img/5/5.4.png)
+d) Cambiamos el nombre de la MV en el archivo de configuración. <br> ![](img/5/5.4.png)
 
-e) Comprobamos que se ha efectuado el cambio. ![](img/5/5.5.png)
+e) Comprobamos que se ha efectuado el cambio. <br> ![](img/5/5.5.png)
 
 ## CAJA PERSONALIZADA
 ## CAJA WINDOWS
 
-a) Buscamos la MV que más nos guste y la añadimos a través de Vagrant. ![](img/7/7.1.png)
+a) Buscamos la MV que más nos guste y la añadimos a través de Vagrant. <br> ![](img/7/7.1.png)
 
-b) Listamos las MV para comprobar que se ha añadido correctamente. ![](img/7/7.2.png)
+b) Listamos las MV para comprobar que se ha añadido correctamente. <br> ![](img/7/7.2.png)
 
-c) Levantamos la MV. ![](img/7/7.3.png)
+c) Levantamos la MV. <br> ![](img/7/7.3.png)
 
-d) Comprobamos que se ha realizado correctamente. ![](img/7/7.4.png) ![](img/7/7.5.png)
+d) Comprobamos que se ha realizado correctamente. <br> ![](img/7/7.4.png) <br> ![](img/7/7.5.png)
 
 
 
